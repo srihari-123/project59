@@ -1,0 +1,46 @@
+h1{
+    color :rgb(111, 1, 255)
+}
+
+
+
+.header{
+    background-color: rgb(195, 245, 13);
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: chartreuse;
+}
+
+
+.special{
+    color :darkgreen;
+    background-color: chocolate;
+    text-align: center;
+}
+
+.veryspecial{
+    color:rgb(226, 69, 7);
+    background-color: rgb(18, 162, 206);
+    text-align: center;
+}
+
+
+.extra{
+    color: deeppink;
+    background-color: dimgrey;
+    text-align: center;
+}
+
+.hyper{
+    color: fuchsia;
+    background-color: goldenrod;
+    text-align:center;
+}
+
+
+
+
+
